@@ -20,9 +20,9 @@
 .idea/
 
 # Unreal Engine에서 생성하는 중간 파일들
-Intermediate/
-Saved/
-DerivedDataCache/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
 
 # OS에서 생성하는 자동 파일들
 .DS_Store
